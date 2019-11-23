@@ -306,11 +306,11 @@ a.white:hover{color:var(--second-color)}
 
 section#contact{
 	background-color:var(--black-col);
-	background-image:url(../img/map-image.png);
+	/*background-image:url(../img/map-image.png);*/
 	background-repeat:no-repeat;background-position:center
 }
 
-section#contact .section-heading{color:#fff}
+section#contact .section-heading{color:#000}
 section#contact .form-group{margin-bottom:25px}
 section#contact .form-group input,section#contact .form-group textarea{padding:20px}
 section#contact .form-group input.form-control{height:auto}section#contact .form-group textarea.form-control{height:157px}
